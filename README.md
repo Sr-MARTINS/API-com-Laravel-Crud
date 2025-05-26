@@ -37,8 +37,9 @@ http://127.0.0.1:8000/api/users
 
 
 ## Sequencia para criar o projeto
+
 Criar o projeto com Laravel.
----
+```
 
 composer create-project laravel/laravel:11 .
 ---
